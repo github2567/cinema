@@ -4,8 +4,8 @@ import (
 	"fmt"
 	
 	// "github.com/PongthornP/cinema/movie"
-	"github.com/PongthornP/cinema/ticket"
-	"github.com/PongthornP/cinema/movie"
+	"github.com/github2567/cinema/ticket"
+	"github.com/github2567/cinema/movie"
 )
 
 func init() {
